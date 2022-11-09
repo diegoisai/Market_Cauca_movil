@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "248480029035",
+    "project_id": "market-cauca",
+    "storage_bucket": "market-cauca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248480029035:android:9e6cb9d87e3dd31725942e",
+        "android_client_info": {
+          "package_name": "com.developers.market_cauca_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248480029035-8e3vl5cmi4vs7unr3vffva10joqkh0b7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developers.market_cauca_3",
+            "certificate_hash": "34e8620b20d5bb4bf854284a645d20e76a607f16"
+          }
+        },
+        {
+          "client_id": "248480029035-3143trilammf0ti8a06he4jkofc85m6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvvvjKBfi0PH_3bSN7URMMMlZTY48h91c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248480029035-3143trilammf0ti8a06he4jkofc85m6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

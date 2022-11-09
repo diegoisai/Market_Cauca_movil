@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Market_Cauca_3</string>
+    <string name="strCrear_Cuenta"><u>Crear Cuenta</u></string>
+    <string name="strOlvidar"><u>Has Olvidado la Contraseña?</u></string>
+</resources>
